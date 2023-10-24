@@ -1,0 +1,266 @@
+[
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFLX",
+        "Location_Name": "CHATEAUROUX-DEOLS",
+        "Lat": "46:51:37N",
+        "Long": "001:43:16E",
+        "IATA_Code": "CHR"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFFP",
+        "Location_Name": "PITHIVIERS",
+        "Lat": "48:09:23N",
+        "Long": "002:11:28E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFFT",
+        "Location_Name": "NEUFCHATEAU",
+        "Lat": "48:21:42N",
+        "Long": "005:43:13E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFRQ",
+        "Location_Name": "QUIMPER-PLUGUFFAN",
+        "Lat": "47:58:30N",
+        "Long": "004:10:04W",
+        "IATA_Code": "UIP"
+    },
+    {
+        "State_Name": "YEMEN",
+        "ICAO_Code": "OYSN",
+        "Location_Name": "SANAA/INTL",
+        "Lat": "15:28:46N",
+        "Long": "044:13:11E",
+        "IATA_Code": "SAH"
+    },
+    {
+        "State_Name": "BELGIUM",
+        "ICAO_Code": "EBFS",
+        "Location_Name": "FLORENNES (MIL)",
+        "Lat": "50:14:36N",
+        "Long": "004:38:45E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFQM",
+        "Location_Name": "BESANCON-LA VEZE",
+        "Lat": "47:12:19N",
+        "Long": "006:04:50E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "LITHUANIA",
+        "ICAO_Code": "EYVI",
+        "Location_Name": "VILNIUS/INTERNATIONAL",
+        "Lat": "54:38:13N",
+        "Long": "025:17:16E",
+        "IATA_Code": "VNO"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFKG",
+        "Location_Name": "GHISONACCIA-ALZITONE",
+        "Lat": "42:03:16N",
+        "Long": "009:24:01E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFFJ",
+        "Location_Name": "JOINVILLE-MUSSEY",
+        "Lat": "48:23:07N",
+        "Long": "005:08:36E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "GERMANY",
+        "ICAO_Code": "EDDS",
+        "Location_Name": "STUTTGART",
+        "Lat": "48:41:24N",
+        "Long": "009:13:19E",
+        "IATA_Code": "STR"
+    },
+    {
+        "State_Name": "HUNGARY",
+        "ICAO_Code": "LHBP",
+        "Location_Name": "BUDAPEST LISZT FERENC INTERNATIONAL AIRPORT",
+        "Lat": "47:26:22N",
+        "Long": "019:15:43E",
+        "IATA_Code": "BUD"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFRB",
+        "Location_Name": "BREST-BRETAGNE",
+        "Lat": "48:26:50N",
+        "Long": "004:25:18W",
+        "IATA_Code": "BES"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFOE",
+        "Location_Name": "EVREUX-FAUVILLE",
+        "Lat": "49:01:43N",
+        "Long": "001:13:12E",
+        "IATA_Code": "EVX"
+    },
+    {
+        "State_Name": "UNITED KINGDOM",
+        "ICAO_Code": "EGGP",
+        "Location_Name": "LIVERPOOL",
+        "Lat": "53:20:01N",
+        "Long": "002:50:59W",
+        "IATA_Code": "LPL"
+    },
+    {
+        "State_Name": "CÔTE D'IVOIRE",
+        "ICAO_Code": "DIAP",
+        "Location_Name": "FELIX HOUPHOUET BOIGNY D'ABIDJAN AEROPORT INTERNATIONAL",
+        "Lat": "05:15:16N",
+        "Long": "003:55:43W",
+        "IATA_Code": "ABJ"
+    },
+    {
+        "State_Name": "UNITED STATES",
+        "ICAO_Code": "KEWR",
+        "Location_Name": "NEWARK LIBERTY INTL",
+        "Lat": "40:41:33N",
+        "Long": "074:10:07W",
+        "IATA_Code": "EWR"
+    },
+    {
+        "State_Name": "SYRIAN ARAB REPUBLIC",
+        "ICAO_Code": "OSDI",
+        "Location_Name": "DAMASCUS/INTL",
+        "Lat": "33:24:39N",
+        "Long": "036:30:48E",
+        "IATA_Code": "DAM"
+    },
+    {
+        "State_Name": "ITALY",
+        "ICAO_Code": "LIRN",
+        "Location_Name": "NAPOLI/CAPODICHINO",
+        "Lat": "40:53:04N",
+        "Long": "014:17:27E",
+        "IATA_Code": "NAP"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFCK",
+        "Location_Name": "CASTRES MAZAMET",
+        "Lat": "43:33:18N",
+        "Long": "002:17:26E",
+        "IATA_Code": "DCM"
+    },
+    {
+        "State_Name": "MOROCCO",
+        "ICAO_Code": "GMMX",
+        "Location_Name": "MARRAKECH/MENARA",
+        "Lat": "31:36:31N",
+        "Long": "008:02:27W",
+        "IATA_Code": "RAK"
+    },
+    {
+        "State_Name": "UNITED KINGDOM",
+        "ICAO_Code": "EGCC",
+        "Location_Name": "MANCHESTER",
+        "Lat": "53:21:14N",
+        "Long": "002:16:30W",
+        "IATA_Code": "MAN"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFLM",
+        "Location_Name": "MACON CHARNAY",
+        "Lat": "46:17:45N",
+        "Long": "004:47:45E",
+        "IATA_Code": ""
+    },
+    {
+        "State_Name": "SWITZERLAND",
+        "ICAO_Code": "LSZB",
+        "Location_Name": "BERN-BELP",
+        "Lat": "46:54:44N",
+        "Long": "007:29:58E",
+        "IATA_Code": "BRN"
+    },
+    {
+        "State_Name": "GERMANY",
+        "ICAO_Code": "EDFE",
+        "Location_Name": "FRANKFURT-EGELSBACH",
+        "Lat": "49:57:39N",
+        "Long": "008:38:29E",
+        "IATA_Code": "QEF"
+    },
+    {
+        "State_Name": "HONG KONG, CHINA (CHINA)",
+        "ICAO_Code": "VHHH",
+        "Location_Name": "HONG KONG/INTERNATIONAL",
+        "Lat": "22:18:32N",
+        "Long": "113:54:53E",
+        "IATA_Code": "HKG"
+    },
+    {
+        "State_Name": "BRAZIL",
+        "ICAO_Code": "SBBR",
+        "Location_Name": "BRASILIA/PRES. JUSCELINO KUBITSCHEK, DF",
+        "Lat": "15:52:16S",
+        "Long": "047:55:07W",
+        "IATA_Code": "BSB"
+    },
+    {
+        "State_Name": "RUSSIAN FEDERATION",
+        "ICAO_Code": "UUEE",
+        "Location_Name": "MOSCOW/SHEREMETYEVO",
+        "Lat": "55:58:21N",
+        "Long": "037:24:47E",
+        "IATA_Code": "SVO"
+    },
+    {
+        "State_Name": "MALI",
+        "ICAO_Code": "GABS",
+        "Location_Name": "PRESIDENT MODIBO KEITA-SENOU INTERNATIONAL",
+        "Lat": "12:32:16N",
+        "Long": "007:56:35W",
+        "IATA_Code": "BKO"
+    },
+    {
+        "State_Name": "PORTUGAL (MADEIRA AND AZORES) (PORTUGAL)",
+        "ICAO_Code": "LPPR",
+        "Location_Name": "PORTO",
+        "Lat": "41:14:08N",
+        "Long": "008:40:41W",
+        "IATA_Code": "OPO"
+    },
+    {
+        "State_Name": "INDIA",
+        "ICAO_Code": "VABB",
+        "Location_Name": "CHHATRAPATI SHIVAJI MAHARAJ INTERNATIONAL AIRPORT, MUMBAI",
+        "Lat": "19:05:30N",
+        "Long": "072:51:58E",
+        "IATA_Code": "BOM"
+    },
+    {
+        "State_Name": "CZECHIA",
+        "ICAO_Code": "LKPR",
+        "Location_Name": "PRAHA/RUZYNE",
+        "Lat": "50:06:03N",
+        "Long": "014:15:36E",
+        "IATA_Code": "PRG"
+    },
+    {
+        "State_Name": "FRANCE",
+        "ICAO_Code": "LFMH",
+        "Location_Name": "SAINT-ETIENNE-LOIRE",
+        "Lat": "45:32:03N",
+        "Long": "004:17:50E",
+        "IATA_Code": "EBU"
+    }
+]
