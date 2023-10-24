@@ -16,7 +16,7 @@ st.divider()
 
 # 1 - Affichage de l'image + formulaire d'édition EXIF
 
-img_url = "twoody.jpg"
+img_url = "woody.jpg"
 with open(img_url, 'rb') as img:	# Lecture de l'image
 	image = Image(img)
 
